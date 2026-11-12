@@ -4,9 +4,12 @@ parent: LEVEL-1
 nav_order: 2
 ---
 
-I will study english
-나는 영어를 공부 할거야
-
+* **I study English**
+  <details>
+  <summary>한국어 뜻 보기</summary>
+  나는 영어를 공부합니다.
+  </details>
+  
 You will study english
 넌 영어를 공부 할거야
 
