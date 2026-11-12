@@ -28,5 +28,10 @@ nav_order: 2
   그는 영어를 공부 할거야 
   </details>
   
-My mom will study english every day. 
-저희 어머니는 영어를 매일 공부 하실거에요
+- `My mom will study english every day.`
+  <details>
+  <summary>해석</summary>
+  저희 어머니는 영어를 매일 공부 하실거에요
+  </details>
+
+  
