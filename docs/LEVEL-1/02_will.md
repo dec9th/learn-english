@@ -30,7 +30,9 @@ nav_order: 2
   
 - `My mom will study english every day.`
   <details>
-  <summary>해석</summary>
+  <summary>해석
+  {: .label .label-yellow }
+  </summary>
   저희 어머니는 영어를 매일 공부 하실거에요
   </details>
 
