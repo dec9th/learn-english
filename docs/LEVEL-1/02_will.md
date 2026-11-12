@@ -22,7 +22,7 @@ nav_order: 2
   그녀는 영어를 공부 할거야
   </details>
   
-- **He will study english.**
+- `**He will study english.**`
   <details>
   <summary>해석</summary>
   그는 영어를 공부 할거야 
