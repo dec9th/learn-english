@@ -1,7 +1,7 @@
 ---
 title: "04_Be going to"
 parent: LEVEL-1
-nav_order: 5
+nav_order: 4
 ---
 
 Oxford a1 랜덤 50 동사 (be going to)
