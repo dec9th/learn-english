@@ -1,7 +1,7 @@
 ---
-title: "05_Be Verb (Present)"
+title: "08_Be Verb (Present)"
 parent: LEVEL-1
-nav_order: 5
+nav_order: 8
 ---
 
 A1 Be 동사 (형용사 / 명사)
