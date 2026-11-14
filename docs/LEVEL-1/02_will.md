@@ -62,14 +62,14 @@ Oxford a1 랜덤 50 동사
 
 ### 5. drink
 - **의문문** {: .label .label-blue }  
-  **Will my mom drink coffee?**  
-  *저희 어머니는 커피를 드실 거예요?*
+  **Will Jake drink coffee?**  
+  *Jake는 커피를 마실 거야?*
 - **긍정문** {: .label .label-green }  
-  **My mom will drink coffee.**  
-  *저희 어머니는 커피를 드실 거예요.*
+  **Jake will drink coffee.**  
+  *Jake는 커피를 마실 거야.*
 - **부정문** {: .label .label-red }  
-  **My mom won’t drink coffee.**  
-  *저희 어머니는 커피를 드시지 않을 거예요.*
+  **Jake won’t drink coffee.**  
+  *Jake는 커피를 마시지 않을 거야.*
 
 ---
 
@@ -127,14 +127,14 @@ Oxford a1 랜덤 50 동사
 
 ### 10. listen
 - **의문문** {: .label .label-blue }  
-  **Will my mom listen to music?**  
-  *저희 어머니는 음악을 들으실 거예요?*
+  **Will Jessie listen to music?**  
+  *Jessie는 음악을 들을 거야?*
 - **긍정문** {: .label .label-green }  
-  **My mom will listen to music.**  
-  *저희 어머니는 음악을 들으실 거예요.*
+  **Jessie will listen to music.**  
+  *Jessie는 음악을 들을 거야.*
 - **부정문** {: .label .label-red }  
-  **My mom won’t listen to music.**  
-  *저희 어머니는 음악을 듣지 않으실 거예요.*
+  **Jessie won’t listen to music.**  
+  *Jessie는 음악을 듣지 않을 거야.*
 
 ---
 
@@ -192,14 +192,14 @@ Oxford a1 랜덤 50 동사
 
 ### 15. call
 - **의문문** {: .label .label-blue }  
-  **Will my mom call me?**  
-  *저희 어머니는 저에게 전화하실 거예요?*
+  **Will Jake call me?**  
+  *Jake는 나에게 전화할 거야?*
 - **긍정문** {: .label .label-green }  
-  **My mom will call me.**  
-  *저희 어머니는 저에게 전화하실 거예요.*
+  **Jake will call me.**  
+  *Jake는 나에게 전화할 거야.*
 - **부정문** {: .label .label-red }  
-  **My mom won’t call me.**  
-  *저희 어머니는 저에게 전화하지 않으실 거예요.*
+  **Jake won’t call me.**  
+  *Jake는 나에게 전화하지 않을 거야.*
 
 ---
 
@@ -257,14 +257,14 @@ Oxford a1 랜덤 50 동사
 
 ### 20. wash
 - **의문문** {: .label .label-blue }  
-  **Will my mom wash the dishes?**  
-  *저희 어머니는 설거지를 하실 거예요?*
+  **Will Jessie wash the dishes?**  
+  *Jessie는 설거지를 할 거야?*
 - **긍정문** {: .label .label-green }  
-  **My mom will wash the dishes.**  
-  *저희 어머니는 설거지를 하실 거예요.*
+  **Jessie will wash the dishes.**  
+  *Jessie는 설거지를 할 거야.*
 - **부정문** {: .label .label-red }  
-  **My mom won’t wash the dishes.**  
-  *저희 어머니는 설거지를 하지 않으실 거예요.*
+  **Jessie won’t wash the dishes.**  
+  *Jessie는 설거지를 하지 않을 거야.*
 
 ---
 
@@ -322,14 +322,14 @@ Oxford a1 랜덤 50 동사
 
 ### 25. walk
 - **의문문** {: .label .label-blue }  
-  **Will my mom walk in the park?**  
-  *저희 어머니는 공원에서 산책하실 거예요?*
+  **Will Jake walk in the park?**  
+  *Jake는 공원에서 산책할 거야?*
 - **긍정문** {: .label .label-green }  
-  **My mom will walk in the park.**  
-  *저희 어머니는 공원에서 산책하실 거예요.*
+  **Jake will walk in the park.**  
+  *Jake는 공원에서 산책할 거야.*
 - **부정문** {: .label .label-red }  
-  **My mom won’t walk in the park.**  
-  *저희 어머니는 공원에서 산책하지 않으실 거예요.*
+  **Jake won’t walk in the park.**  
+  *Jake는 공원에서 산책하지 않을 거야.*
 
 ---
 
@@ -387,14 +387,14 @@ Oxford a1 랜덤 50 동사
 
 ### 30. love
 - **의문문** {: .label .label-blue }  
-  **Will my mom love the gift?**  
-  *저희 어머니는 그 선물을 좋아하실 거예요?*
+  **Will Jessie love the gift?**  
+  *Jessie는 그 선물을 좋아할 거야?*
 - **긍정문** {: .label .label-green }  
-  **My mom will love the gift.**  
-  *저희 어머니는 그 선물을 좋아하실 거예요.*
+  **Jessie will love the gift.**  
+  *Jessie는 그 선물을 좋아할 거야.*
 - **부정문** {: .label .label-red }  
-  **My mom won’t love the gift.**  
-  *저희 어머니는 그 선물을 좋아하지 않으실 거예요.*
+  **Jessie won’t love the gift.**  
+  *Jessie는 그 선물을 좋아하지 않을 거야.*
 
 ---
 
@@ -452,14 +452,14 @@ Oxford a1 랜덤 50 동사
 
 ### 35. ask
 - **의문문** {: .label .label-blue }  
-  **Will my mom ask a question?**  
-  *저희 어머니는 질문을 하실 거예요?*
+  **Will Jake ask a question?**  
+  *Jake는 질문을 할 거야?*
 - **긍정문** {: .label .label-green }  
-  **My mom will ask a question.**  
-  *저희 어머니는 질문을 하실 거예요.*
+  **Jake will ask a question.**  
+  *Jake는 질문을 할 거야.*
 - **부정문** {: .label .label-red }  
-  **My mom won’t ask a question.**  
-  *저희 어머니는 질문을 하지 않으실 거예요.*
+  **Jake won’t ask a question.**  
+  *Jake는 질문을 하지 않을 거야.*
 
 ---
 
@@ -517,14 +517,14 @@ Oxford a1 랜덤 50 동사
 
 ### 40. take
 - **의문문** {: .label .label-blue }  
-  **Will my mom take a photo?**  
-  *저희 어머니는 사진을 찍으실 거예요?*
+  **Will Jessie take a photo?**  
+  *Jessie는 사진을 찍을 거야?*
 - **긍정문** {: .label .label-green }  
-  **My mom will take a photo.**  
-  *저희 어머니는 사진을 찍으실 거예요.*
+  **Jessie will take a photo.**  
+  *Jessie는 사진을 찍을 거야.*
 - **부정문** {: .label .label-red }  
-  **My mom won’t take a photo.**  
-  *저희 어머니는 사진을 찍지 않으실 거예요.*
+  **Jessie won’t take a photo.**  
+  *Jessie는 사진을 찍지 않을 거야.*
 
 ---
 
@@ -582,14 +582,14 @@ Oxford a1 랜덤 50 동사
 
 ### 45. drive
 - **의문문** {: .label .label-blue }  
-  **Will my mom drive a car?**  
-  *저희 어머니는 차를 운전하실 거예요?*
+  **Will Jake drive a car?**  
+  *Jake는 차를 운전할 거야?*
 - **긍정문** {: .label .label-green }  
-  **My mom will drive a car.**  
-  *저희 어머니는 차를 운전하실 거예요.*
+  **Jake will drive a car.**  
+  *Jake는 차를 운전할 거야.*
 - **부정문** {: .label .label-red }  
-  **My mom won’t drive a car.**  
-  *저희 어머니는 차를 운전하지 않으실 거예요.*
+  **Jake won’t drive a car.**  
+  *Jake는 차를 운전하지 않을 거야.*
 
 ---
 
@@ -647,11 +647,12 @@ Oxford a1 랜덤 50 동사
 
 ### 50. meet
 - **의문문** {: .label .label-blue }  
-  **Will my mom meet her friend?**  
-  *저희 어머니는 친구를 만나실 거예요?*
+  **Will Jessie meet her friend?**  
+  *Jessie는 친구를 만날 거야?*
 - **긍정문** {: .label .label-green }  
-  **My mom will meet her friend.**  
-  *저희 어머니는 친구를 만나실 거예요.*
+  **Jessie will meet her friend.**  
+  *Jessie는 친구를 만날 거야.*
 - **부정문** {: .label .label-red }  
-  **My mom won’t meet her friend.**  
-  *저희 어머니는 친구를 만나지 않으실 거예요.*
+  **Jessie won’t meet her friend.**  
+  *Jessie는 친구를 만나지 않을 거야.*
+  
