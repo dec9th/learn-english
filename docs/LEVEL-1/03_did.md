@@ -14,6 +14,7 @@ Oxford a1 랜덤 50 동사
   *나는 영어를 공부했나요?*
 - **긍정문** 
   {: .label .label-green }
+
   **I studied English.**  
   *나는 영어를 공부했습니다.*
 - **부정문** {: .label .label-red }  
