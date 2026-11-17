@@ -6,6 +6,17 @@ nav_order: 6
 
 Oxford a1 랜덤 50 동사 (Present Continuous)
 
+현재 진행형(Present Continuous)은 **지금 진행되고 있는 행동**을 말할 때 사용합니다.
+
+주로 이럴 때 씁니다:
+- 말하는 순간에 하고 있는 행동
+- 일시적으로 하고 있는 행동
+- 가까운 미래에 하기로 계획된 일
+
+예:  
+I am studying English now.  
+(나는 지금 영어를 공부하고 있어요.)
+
 ---
 
 ### 1. study
